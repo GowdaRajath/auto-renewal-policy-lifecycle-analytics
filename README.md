@@ -55,6 +55,13 @@ All data used is synthetic and anonymised for demonstration purposes.
 
 ---
 
+<p align="center">
+  <img src="renewal-lifecycle-timeline.png" alt="Policy lifecycle timeline" width="750">
+</p>
+
+
+---
+
 ## Author
 
 Rajath Gowda  
