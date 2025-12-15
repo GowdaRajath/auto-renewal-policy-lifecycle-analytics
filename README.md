@@ -84,3 +84,10 @@ All data used is synthetic and anonymised for demonstration purposes.
 Rajath Gowda  
 Data & Insight Analyst  
 Customer Intelligence & Decision Analytics
+
+---
+
+## Data Ethics
+
+All data in this repository is synthetic and anonymised. No real customer data, employer data, or personally identifiable information is included.
+
