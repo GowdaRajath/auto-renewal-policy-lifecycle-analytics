@@ -1,0 +1,11 @@
+Complaint_ID,Policy_ID,Renewal_Date,Complaint_Date,Days_From_Renewal,Lifecycle_Stage,Complaint_Reason,Customer_Awareness,Communication_Sent,Communication_Channel,Financial_Surprise,Escalated,Preventability
+AR001,P1001,2024-01-15,2024-01-10,-5,Pre-Renewal,Not aware of renewal,Not aware,Yes,Email,No,No,Preventable
+AR002,P1002,2024-01-18,2024-01-18,0,Renewal Point,Amount taken without approval,Partially aware,Yes,Email,Yes,Yes,Preventable
+AR003,P1003,2024-01-20,2024-01-22,2,Cooling-Off Period,Amount taken without approval,Not aware,Yes,Email,Yes,Yes,Preventable
+AR004,P1004,2024-01-22,2024-01-25,3,Cooling-Off Period,Documents not received,Not aware,Yes,Email,No,No,Preventable
+AR005,P1005,2024-01-25,2024-02-05,11,Post-Renewal,Duplicate policy,Not aware,Yes,Email,Yes,Yes,Partially preventable
+AR006,P1006,2024-01-28,2024-01-29,1,Cooling-Off Period,Not aware of active policy,Partially aware,Yes,Email,Yes,No,Preventable
+AR007,P1007,2024-02-01,2024-01-30,-2,Pre-Renewal,Documents not received,Not aware,Yes,Post,No,No,Preventable
+AR008,P1008,2024-02-03,2024-02-10,7,Post-Renewal,Cancellation dissatisfaction,Aware,Yes,Email,No,Yes,Not preventable
+AR009,P1009,2024-02-05,2024-02-05,0,Renewal Point,Amount taken without approval,Not aware,Yes,Email,Yes,Yes,Preventable
+AR010,P1010,2024-02-07,2024-02-14,7,Post-Renewal,Not aware of active policy,Not aware,Yes,Email,Yes,Yes,Partially preventable
