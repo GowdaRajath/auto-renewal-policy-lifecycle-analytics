@@ -46,6 +46,23 @@ All data used is synthetic and anonymised for demonstration purposes.
 
 ---
 
+## Repository Structure
+
+- `framework/` — lifecycle model and analytical dimensions  
+- `data/` — synthetic dataset used for demonstration  
+- `analysis/` — timeline-driven insights summary  
+
+---
+
+## Key Outputs
+
+- Policy lifecycle segmentation model
+- Defined complaint and awareness dimensions
+- Timeline-based insights on complaint clustering and preventability
+- Decision implications for communication, timing, and escalation handling
+
+---
+
 ## Tools & Approach
 
 - Excel and structured analysis
